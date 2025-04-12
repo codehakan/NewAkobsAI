@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">AKOBS</string>
+    <string name="app_desc">Acil Konum Bildirim Sistemi</string>
+    <string name="login">Giriş Yap</string>
+    <string name="google_login">Google Hesabı İle Oturum Aç</string>
+    <string name="your_location">Şuan Buradasınız :</string>
+    <string name="location_update">Güncelleme :</string>
+    <string name="forgot_password">Şifreni mi Unuttun?</string>
+    <string name="send_reset_link">Şifre Sıfırlama Bağlantısı Gönder</string>
+    <string name="contact_us">Bizimle İletişime Geçin</string>
+    
+    <!-- Formlar -->
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="confirm_password">Şifre Tekrar</string>
+    <string name="name">Ad Soyad</string>
+    <string name="back">Geri</string>
+    
+    <!-- Mesajlar -->
+    <string name="login_success">Giriş başarılı</string>
+    <string name="login_failed">Giriş başarısız</string>
+    <string name="register_success">Kayıt başarılı</string>
+    <string name="register_failed">Kayıt başarısız</string>
+    <string name="firebase_init_error">Firebase başlatma hatası: %1$s</string>
+    <string name="profile_updated">Profil güncellendi</string>
+    <string name="profile_update_failed">Profil güncellenemedi: %1$s</string>
+    <string name="password_changed">Şifre başarıyla değiştirildi</string>
+    <string name="password_change_failed">Şifre değiştirilemedi: %1$s</string>
+    <string name="logout_success">Çıkış yapıldı</string>
+    <string name="logout_failed">Çıkış yapılırken hata oluştu: %1$s</string>
+    <string name="fill_all_fields">Lütfen tüm alanları doldurun</string>
+    <string name="passwords_not_match">Şifreler eşleşmiyor</string>
+    <string name="password_min_length">Şifre en az 6 karakter olmalıdır</string>
+    <string name="enter_email">Lütfen e-posta adresinizi girin</string>
+    <string name="invalid_email">Lütfen geçerli bir e-posta adresi girin</string>
+    <string name="enter_name">Lütfen ad soyad girin</string>
+    <string name="enter_password">Lütfen şifrenizi girin</string>
+    <string name="enter_confirm_password">Lütfen şifrenizi tekrar girin</string>
+    <string name="password_reset_sent">Şifre sıfırlama bağlantısı e-posta adresinize gönderildi</string>
+    <string name="password_reset_failed">Şifre sıfırlama e-postası gönderilemedi: %1$s</string>
+    <string name="error_occurred">Bir hata oluştu: %1$s</string>
+    <string name="support_contact">Destek ekibimiz ile iletişime geçebilirsiniz: destek@akobs.com</string>
+    <string name="logout">Çıkış Yap</string>
+    <string name="update_profile">Profili Güncelle</string>
+    <string name="change_password">Şifre Değiştir</string>
+    <string name="profile_info">Profil Bilgileri</string>
+    <string name="current_password">Mevcut Şifre</string>
+    <string name="new_password">Yeni Şifre</string>
+    <string name="confirm_new_password">Yeni Şifre (Tekrar)</string>
+    <string name="change">Değiştir</string>
+    <string name="cancel">İptal</string>
+    <string name="user_logged_in">Kullanıcı giriş yapmış: %1$s</string>
+    <string name="user_not_logged_in">Kullanıcı oturum açmamış</string>
+    <string name="login_required">Önce giriş yapmalısınız</string>
+    <string name="session_expired">Kullanıcı oturumu sona ermiş</string>
+    <string name="firebase_success">Firebase başarıyla başlatıldı</string>
+    <string name="location_not_available">Konum bilgisi alınamadı</string>
+    <string name="location_permission_required">Konum izni gereklidir</string>
+    
+    <!-- Hata Mesajları -->
+    <string name="error_weak_password">Şifre çok zayıf.</string>
+    <string name="error_email_already_used">Bu e-posta adresi zaten kullanılıyor.</string>
+    <string name="error_auth">Kimlik doğrulama hatası: %1$s</string>
+    <string name="error_wrong_password">Mevcut şifre yanlış.</string>
+    <string name="error_auth_failed">Kimlik doğrulama başarısız: %1$s</string>
+    <string name="error_user_not_found">Bu e-posta adresi ile kayıtlı kullanıcı bulunamadı.</string>
+    <string name="error_invalid_credentials">Geçersiz e-posta veya şifre.</string>
+    <string name="error_reauth_required">Bu işlem için yeniden giriş yapmanız gerekiyor.</string>
+    <string name="error_unknown">Bilinmeyen bir hata oluştu</string>
+    
+    <!-- Login/Register -->
+    <string name="create_account">Hesap Oluştur</string>
+    <string name="account_question">Hesabın yok mu?</string>
+    <string name="or">Ya da</string>
+    <string name="google_login_short">Google ile Giriş</string>
+    <string name="terms_agreement">Kayıt olarak kullanım koşullarını kabul etmiş olursunuz.</string>
+    <string name="register_title">Kayıt Ol</string>
+    <string name="register_now">Hemen Kayıt Ol</string>
+    <string name="google_register">Google Hesabı İle Kayıt Ol</string>
+    
+    <!-- Navigation -->
+    <string name="home">Ana Sayfa</string>
+    <string name="emergency">Acil Durum</string>
+    <string name="profile">Profil</string>
+    <string name="welcome">Hoş Geldiniz</string>
+    <string name="register">Kayıt Ol</string>
+    
+    <!-- İkonlar için açıklamalar -->
+    <string name="icon_email">E-posta ikonu</string>
+    <string name="icon_password">Şifre ikonu</string>
+    <string name="icon_name">Ad Soyad ikonu</string>
+    <string name="icon_confirm_password">Şifre Tekrar ikonu</string>
+    <string name="feature_not_available">Bu özellik şu anda kullanılamıyor</string>
+</resources>
